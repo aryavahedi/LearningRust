@@ -1,0 +1,14 @@
+# Cargo build output
+target/
+
+# macOS
+.DS_Store
+
+# Vim / Neovim
+*.swp
+*.swo
+*.swn
+
+# Secrets
+.env
+.env.*
